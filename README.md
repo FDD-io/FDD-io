@@ -31,6 +31,7 @@ I design and build end-to-end applications: modern frontends, robust REST APIs, 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Database & DevOps**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -63,5 +64,5 @@ I design and build end-to-end applications: modern frontends, robust REST APIs, 
 ## 📫 Hire me
 
 - 📧 **Email:** joslath.odjaga@gmail.com
-- 💬 **WhatsApp:** +237 6XX XXX XXX
+- 💬 **WhatsApp:** +237 621153448
 - 🌍 **Fiverr / Upwork:** *(coming soon)*
