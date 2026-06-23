@@ -1,4 +1,4 @@
-# Hey, I'm Joslath 👋 — Full-Stack Developer · Cameroon 🇨🇲
+# Hey, I'm Darel 👋 — Full-Stack Developer · Cameroon 🇨🇲
 
 > Building web apps, mobile apps & AI-powered tools · React · Spring Boot · Astro · Docker · Flutter
 
