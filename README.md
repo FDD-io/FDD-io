@@ -4,8 +4,8 @@
 
 <br/>
 
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-✅%20Available-6366F1?style=for-the-badge)](mailto:odjagajoslath@gmail.com)
-[![Freelance](https://img.shields.io/badge/Freelance-Remote%20Ready-10B981?style=for-the-badge)](mailto:odjagajoslath@gmail.com)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-✅%20Available-6366F1?style=for-the-badge)](mailto:odjagadarel@gmail.com)
+[![Freelance](https://img.shields.io/badge/Freelance-Remote%20Ready-10B981?style=for-the-badge)](mailto:odjagadarel@gmail.com)
 
 </div>
 
@@ -160,11 +160,12 @@ Mobile application for iOS and Android built with Flutter, including a complete 
 
 I'm available for **freelance missions**, **contract work**, and **collaborative open-source projects**.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odjagajoslath@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odjagadarel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE_PROFIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://VOTRE_PORTFOLIO.dev)
 
 <br/>
 
 <sub><b>Remote · English & French · Fast delivery · Clean, documented code</b></sub>
+
 
